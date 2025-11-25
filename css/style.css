@@ -141,10 +141,18 @@ img{
     font-size: 20px;
 }
 .main3{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 100px;
+    box-sizing: border-box;
     background-image: url(../img/tempat_makan_lesehan_di_jakarta_05_a92e30c809.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+}
+
+.main3 p{
+    width: 700px;
 }
 
 .page2{
